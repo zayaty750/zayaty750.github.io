@@ -1,0 +1,13 @@
+.zayaty_style
+{
+    position: absolute;
+    width: 15%;
+    border-radius: 2cm;
+
+}
+.zayaty_style:hover
+{
+    position: absolute;
+    width: 16%;
+    transition: 5s;
+}
